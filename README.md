@@ -1,5 +1,5 @@
-# Vue.js: De cero a experto
-Resolución al curso "Vue.js: De cero a experto" de Fernando Herrera
+# Vue.js: De cero a experto Composition Api
+Resolución al curso "Vue.js: De cero a experto Composition Api" de Fernando Herrera, edición 2024
 
 <hr/>
 <h3>¡Sigueme en mis redes!</h3>
